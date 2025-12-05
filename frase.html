@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frase de Videojuego</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="replayline.png" type="image/x-icon">
+    <style>
+        .frase-individual {
+            max-width: 800px;
+            margin: 2rem auto;
+            text-align: center;
+        }
+
+        .video-container {
+            margin-bottom: 1rem;
+        }
+
+        iframe {
+            width: 100%;
+            max-width: 600px;
+            height: 400px;
+        }
+
+        .navegacion-frase button {
+            margin: 0 0.5rem;
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+        }
+
+        .volver {
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>REPLAYLINE</h1>
+            <p>Repositorio esencial de recursos de videojuegos (clips de gameplay, frases, intros y outros...) diseñado para la comunidad de creadores de contenido. El objetivo es eliminar las horas de búsqueda para que puedas enfocarte en la edición.</p>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="frase-individual">
+            <div class="video-container">
+                <iframe id="video-frame" src="" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="frase-texto">
+                <h2 id="titulo-juego">Nombre del Juego</h2>
+                <p id="texto-frase">Aquí irá la frase del juego</p>
+            </div>
+            <div class="volver">
+                <a href="index.html">Volver al inicio</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Spartan Heaven</p>
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>
