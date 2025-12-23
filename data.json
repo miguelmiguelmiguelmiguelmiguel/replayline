@@ -1,5 +1,26 @@
 [
   {
+    "nombre": "Call of Duty: Modern Warfare 2",
+    "frase": "Recuerda, nada de ruso.",
+    "url": "https://youtu.be/Z1D7-i04LD4?si=gGV_K-M5i5JktaLm",
+    "descripcion": "La escena más controvertida de la historia de los videojuegos. Vladimir Makarov y su grupo se preparan para salir de un ascensor en el aeropuerto internacional de Moscú. Justo antes de que las puertas se abran, Makarov pronuncia las palabras que desencadenarían una guerra mundial: 'Recuerda, nada de ruso'."
+  },
+
+  {
+    "nombre": "Call of Duty 4: Modern Warfare remastered",
+    "frase": "¿Qué clase de nombre es Soap, eh?",
+    "url": "https://youtu.be/aW_99_dJP68?si=jxtYS4xEavRmfK9f",
+    "descripcion": "El primer encuentro entre el Capitán Price y John 'Soap' MacTavish. Price se burla del apodo del protagonista mientras este llega a la base de Credenhill para su primer día en el 22º Regimiento del SAS."
+  },
+  
+  {
+    "nombre": "Call of Duty 4: Modern Warfare remastered",
+    "frase": "De pie, soldado! ¡Nos largamos!",
+    "url": "https://youtu.be/bJa8IKF2u0Q?si=hXJH8R6svVnQtrAt",
+    "descripcion": "El icónico comienzo de la misión 'Tripulación prescindible'. El Capitán Price despierta al sargento 'Soap' MacTavish de un golpe y le entrega su fusil, instándolo a ponerse en marcha de inmediato para el asalto al carguero."
+  },
+
+  {
     "nombre": "Spec Ops: The Line",
     "frase": "Escena de fósforo blanco",
     "url": "https://youtu.be/dlAqqYCrn-Y?si=975McPd_SpgTg2Mf&t=328",
